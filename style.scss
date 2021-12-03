@@ -1,0 +1,144 @@
+div#main {
+    position: relative;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 50%;
+    margin-top: 2%;
+    margin-bottom: 2%;
+    background-color: white;
+    box-shadow:rgba(0, 0, 0, 0.507) -1rem 1rem;
+    border-radius: 2rem;
+    padding: 2rem;
+    opacity: 0.75;
+    }
+
+body {  
+    background: linear-gradient(120deg, #5bfaff, #224aff);
+    color: rgb(255, 0, 0);
+    font-family: "Poppins", sans-serif;
+    min-height: 100vh;
+    // overflow: hidden;
+}
+
+div.wrapper {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap: 10px;
+    grid-auto-rows: minmax(80px, auto);
+    
+}
+div.one {
+    // grid-column: 1 / 3;
+    // grid-row: 1;
+    border: 3px solid black;
+}
+
+div.two {
+    border: 3px solid black;
+}
+
+div.three {
+    border: 3px solid black;
+}
+
+div.four {
+    border: 3px solid black;
+}
+
+div.five {
+    border: 3px solid black;
+}
+
+div.six {
+    border: 3px solid black;
+}
+
+div.seven {
+    border: 3px solid black;
+}
+
+div.eight {
+    border: 3px solid black;
+}
+
+div.nine {
+    border: 3px solid black;
+}
+
+div.ten {
+    border: 3px solid black;
+}
+
+div.eleven {
+    border: 3px solid black;
+}
+
+div.twelve {
+    border: 3px solid black;
+}
+
+div.thirteen {
+    border: 3px solid black;
+}
+
+div.fourteen {
+    border: 3px solid black;
+}
+
+div.fifteen {
+    border: 3px solid black;
+}
+
+div.sixteen {
+    border: 3px solid black;
+}
+
+div.seventeen {
+    border: 3px solid black;
+}
+
+div.eighteen {
+    border: 3px solid black;
+}
+
+div.nineteen {
+    border: 3px solid black;
+}
+
+div.twenty {
+    border: 3px solid black;
+}
+
+div.twenty-one {
+    border: 3px solid black;
+}
+
+div.twenty-two {
+    border: 3px solid black;
+}
+
+div.twenty-three {
+    border: 3px solid black;
+}
+
+div.twenty-four {
+    border: 3px solid black;
+}
+.snowflake {
+    position: absolute;
+    width: 10px;
+    height: 10px;
+    background: linear-gradient(white, white); /* Workaround for Chromium's selective color inversion */
+    border-radius: 50%;
+    filter: drop-shadow(0 0 10px white);
+}
+
+div#snow { 
+    // display: flex; 
+    // flex-direction: column; 
+    // align-items: center; 
+    // justify-content: center;
+    // justify-content: left;
+    // align-items: flex-start;
+    height: 100%; 
+}

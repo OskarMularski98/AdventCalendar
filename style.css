@@ -34,96 +34,288 @@ div.one {
   border: 3px solid black;
 }
 
+div.one:hover {
+  cursor: pointer;
+  -webkit-transform: scale(1.05);
+          transform: scale(1.05);
+  -webkit-transition: all 0.3s ease;
+  transition: all 0.3s ease;
+}
+
 div.two {
   border: 3px solid black;
+}
+
+div.two:hover {
+  cursor: pointer;
+  -webkit-transform: scale(1.05);
+          transform: scale(1.05);
+  -webkit-transition: all 0.3s ease;
+  transition: all 0.3s ease;
 }
 
 div.three {
   border: 3px solid black;
 }
 
+div.three:hover {
+  cursor: pointer;
+  -webkit-transform: scale(1.05);
+          transform: scale(1.05);
+  -webkit-transition: all 0.3s ease;
+  transition: all 0.3s ease;
+}
+
 div.four {
   border: 3px solid black;
+}
+
+div.four:hover {
+  cursor: pointer;
+  -webkit-transform: scale(1.05);
+          transform: scale(1.05);
+  -webkit-transition: all 0.3s ease;
+  transition: all 0.3s ease;
 }
 
 div.five {
   border: 3px solid black;
 }
 
+div.five:hover {
+  cursor: pointer;
+  -webkit-transform: scale(1.05);
+          transform: scale(1.05);
+  -webkit-transition: all 0.3s ease;
+  transition: all 0.3s ease;
+}
+
 div.six {
   border: 3px solid black;
+}
+
+div.six:hover {
+  cursor: pointer;
+  -webkit-transform: scale(1.05);
+          transform: scale(1.05);
+  -webkit-transition: all 0.3s ease;
+  transition: all 0.3s ease;
 }
 
 div.seven {
   border: 3px solid black;
 }
 
+div.seven:hover {
+  cursor: pointer;
+  -webkit-transform: scale(1.05);
+          transform: scale(1.05);
+  -webkit-transition: all 0.3s ease;
+  transition: all 0.3s ease;
+}
+
 div.eight {
   border: 3px solid black;
+}
+
+div.eight:hover {
+  cursor: pointer;
+  -webkit-transform: scale(1.05);
+          transform: scale(1.05);
+  -webkit-transition: all 0.3s ease;
+  transition: all 0.3s ease;
 }
 
 div.nine {
   border: 3px solid black;
 }
 
+div.nine:hover {
+  cursor: pointer;
+  -webkit-transform: scale(1.05);
+          transform: scale(1.05);
+  -webkit-transition: all 0.3s ease;
+  transition: all 0.3s ease;
+}
+
 div.ten {
   border: 3px solid black;
+}
+
+div.ten:hover {
+  cursor: pointer;
+  -webkit-transform: scale(1.05);
+          transform: scale(1.05);
+  -webkit-transition: all 0.3s ease;
+  transition: all 0.3s ease;
 }
 
 div.eleven {
   border: 3px solid black;
 }
 
+div.eleven:hover {
+  cursor: pointer;
+  -webkit-transform: scale(1.05);
+          transform: scale(1.05);
+  -webkit-transition: all 0.3s ease;
+  transition: all 0.3s ease;
+}
+
 div.twelve {
   border: 3px solid black;
+}
+
+div.twelve:hover {
+  cursor: pointer;
+  -webkit-transform: scale(1.05);
+          transform: scale(1.05);
+  -webkit-transition: all 0.3s ease;
+  transition: all 0.3s ease;
 }
 
 div.thirteen {
   border: 3px solid black;
 }
 
+div.thirteen:hover {
+  cursor: pointer;
+  -webkit-transform: scale(1.05);
+          transform: scale(1.05);
+  -webkit-transition: all 0.3s ease;
+  transition: all 0.3s ease;
+}
+
 div.fourteen {
   border: 3px solid black;
+}
+
+div.fourteen:hover {
+  cursor: pointer;
+  -webkit-transform: scale(1.05);
+          transform: scale(1.05);
+  -webkit-transition: all 0.3s ease;
+  transition: all 0.3s ease;
 }
 
 div.fifteen {
   border: 3px solid black;
 }
 
+div.fifteen:hover {
+  cursor: pointer;
+  -webkit-transform: scale(1.05);
+          transform: scale(1.05);
+  -webkit-transition: all 0.3s ease;
+  transition: all 0.3s ease;
+}
+
 div.sixteen {
   border: 3px solid black;
+}
+
+div.sixteen:hover {
+  cursor: pointer;
+  -webkit-transform: scale(1.05);
+          transform: scale(1.05);
+  -webkit-transition: all 0.3s ease;
+  transition: all 0.3s ease;
 }
 
 div.seventeen {
   border: 3px solid black;
 }
 
+div.seventeen:hover {
+  cursor: pointer;
+  -webkit-transform: scale(1.05);
+          transform: scale(1.05);
+  -webkit-transition: all 0.3s ease;
+  transition: all 0.3s ease;
+}
+
 div.eighteen {
   border: 3px solid black;
+}
+
+div.eighteen:hover {
+  cursor: pointer;
+  -webkit-transform: scale(1.05);
+          transform: scale(1.05);
+  -webkit-transition: all 0.3s ease;
+  transition: all 0.3s ease;
 }
 
 div.nineteen {
   border: 3px solid black;
 }
 
+div.nineteen:hover {
+  cursor: pointer;
+  -webkit-transform: scale(1.05);
+          transform: scale(1.05);
+  -webkit-transition: all 0.3s ease;
+  transition: all 0.3s ease;
+}
+
 div.twenty {
   border: 3px solid black;
+}
+
+div.twenty:hover {
+  cursor: pointer;
+  -webkit-transform: scale(1.05);
+          transform: scale(1.05);
+  -webkit-transition: all 0.3s ease;
+  transition: all 0.3s ease;
 }
 
 div.twenty-one {
   border: 3px solid black;
 }
 
+div.twenty-one:hover {
+  cursor: pointer;
+  -webkit-transform: scale(1.05);
+          transform: scale(1.05);
+  -webkit-transition: all 0.3s ease;
+  transition: all 0.3s ease;
+}
+
 div.twenty-two {
   border: 3px solid black;
+}
+
+div.twenty-two:hover {
+  cursor: pointer;
+  -webkit-transform: scale(1.05);
+          transform: scale(1.05);
+  -webkit-transition: all 0.3s ease;
+  transition: all 0.3s ease;
 }
 
 div.twenty-three {
   border: 3px solid black;
 }
 
+div.twenty-three:hover {
+  cursor: pointer;
+  -webkit-transform: scale(1.05);
+          transform: scale(1.05);
+  -webkit-transition: all 0.3s ease;
+  transition: all 0.3s ease;
+}
+
 div.twenty-four {
   border: 3px solid black;
+}
+
+div.twenty-four:hover {
+  cursor: pointer;
+  -webkit-transform: scale(1.05);
+          transform: scale(1.05);
+  -webkit-transition: all 0.3s ease;
+  transition: all 0.3s ease;
 }
 
 .snowflake {

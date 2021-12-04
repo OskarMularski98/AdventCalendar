@@ -1,21 +1,7 @@
 let snowflakes_count = 200;
 
-// let base_css = ``; // Put your custom base css here
-
 if (typeof total !== 'undefined'){
     snowflakes_count = total;
-}
-
-
-// This function allows you to turn on and off the snow
-function toggle_snow() {
-    let check_box = document.getElementById("toggle_snow");
-    if (check_box.checked == true) {
-        document.getElementById('snow').style.display = "block";
-    }
-    else {
-        document.getElementById('snow').style.display = "none";
-    }
 }
 
 // Creating snowflakes

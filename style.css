@@ -16,13 +16,22 @@ div#main {
 div#reload {
   position: absolute;
   right: 5%;
-  top: 1rem;
-  background-color: green;
+  top: .5rem;
+  background: linear-gradient(120deg, #224aff, #5bfaff);
+  color: #5bfaff;
   border-radius: 2rem;
+  padding: .3rem;
+  -webkit-transition: all 0.6s ease;
+  transition: all 0.6s ease;
+  -webkit-transform: scale(0.9);
+          transform: scale(0.9);
+  border: 2px solid black;
 }
 
 div#reload:hover {
   cursor: pointer;
+  background: linear-gradient(120deg, #5bfaff, #224aff);
+  color: #224aff;
 }
 
 body {
@@ -30,6 +39,10 @@ body {
   font-family: "Poppins", sans-serif;
   min-height: 100vh;
   overflow: hidden;
+  -webkit-user-select: none;
+     -moz-user-select: none;
+      -ms-user-select: none;
+          user-select: none;
 }
 
 div.wrapper {
